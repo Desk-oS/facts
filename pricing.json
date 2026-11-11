@@ -1,0 +1,106 @@
+[
+ {
+  "title": "Bidfold Bid Check",
+  "id": "prod_FVPUY9uGdOVyd",
+  "plans": [
+   {
+    "price": 39.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_cD0nmEcGfI5tU"
+   }
+  ]
+ },
+ {
+  "title": "Bidfold",
+  "id": "prod_rIEymT3fJeyYX",
+  "plans": [
+   {
+    "price": 0.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_dYTxR5KlNj8rf"
+   }
+  ]
+ },
+ {
+  "title": "Bidfold Tender Readiness Pack",
+  "id": "prod_saNT4C473wjjs",
+  "plans": [
+   {
+    "price": 9.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_RIuLqavKHjSR6"
+   }
+  ]
+ },
+ {
+  "title": "Bidfold Desk Setup",
+  "id": "prod_PdxNDzNHVJp6U",
+  "plans": [
+   {
+    "price": 39.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_0gvcdyYfBpfUV"
+   }
+  ]
+ },
+ {
+  "title": "Bidfold Bid / No-Bid Memo",
+  "id": "prod_sf07uaQpFJWst",
+  "plans": [
+   {
+    "price": 29.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_HxLUGlqpgZ6Ag"
+   }
+  ]
+ },
+ {
+  "title": "Bidfold Bid Desk",
+  "id": "prod_o2PzSUjeg0kgd",
+  "plans": [
+   {
+    "price": 69.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_N442cp3szC9O4"
+   }
+  ]
+ },
+ {
+  "title": "Bidfold Pro",
+  "id": "prod_gBQElZc1HeZ1L",
+  "plans": [
+   {
+    "price": 19.0,
+    "cur": "USD",
+    "kind": "renewal",
+    "period": 30,
+    "url": "https://whop.com/checkout/plan_up6e3QadXv2Ll"
+   }
+  ]
+ },
+ {
+  "title": "Bidfold Free Desk",
+  "id": "prod_1INcA7ji001Fa",
+  "plans": [
+   {
+    "price": 0.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_nFqh62wARxtrF"
+   }
+  ]
+ }
+]
