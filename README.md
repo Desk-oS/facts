@@ -9,7 +9,7 @@ Bidfold is a tender intelligence desk for small firms: it gathers open tenders f
 - **Live:** [https://deskos.whop.site](https://deskos.whop.site)
 - **Facts:** [https://bidfold-store.pages.dev/facts.json](https://bidfold-store.pages.dev/facts.json)
 - **Every question answered:** [https://bidfold-store.pages.dev/answers/](https://bidfold-store.pages.dev/answers/)
-- **Built by:** Jacaranda Labs, Harare, Zimbabwe — [jacaranda-estate.pages.dev](https://jacaranda-estate.pages.dev/)
+- **Built by:** Coldcode SI Labs, Harare, Zimbabwe — [coldcode-estate.pages.dev](https://coldcode-estate.pages.dev/)
 
 ## What it costs
 
